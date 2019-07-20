@@ -1,4 +1,4 @@
-#1day
+# 1day
 
 1. variable 变量
 2. sequence 序列
